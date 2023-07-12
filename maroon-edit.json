@@ -9,19 +9,19 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#FFAFC5"
+            "#9F3079"
         ],
         "HEADER_SECONDARY": [
-            "#DF85AC"
+            "#8F1B6C"
         ],
         "TEXT_NORMAL": [
-            "#FFAFC5"
+            "#9F3079"
         ],
         "TEXT_MUTED": [
-            "#DF85AC"
+            "#8F1B6C"
         ],
         "TEXT_DANGER": [
-            "#BF5A92"
+            "#7F055F"
         ],
         "TEXT_LINK": [
             "#fc65b8"
@@ -33,67 +33,67 @@
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFAFC5"
+            "#9F3079"
         ],
         "INTERACTIVE_MUTED": [
             "#7d6874"
         ],
         "BACKGROUND_PRIMARY": [
-            "#7f055f"
+            "#AF4586"
         ],
         "BACKGROUND_SECONDARY": [
-            "#9F3079"
+            "#DF85AC"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#9F3079"
+            "#DF85AC"
         ],
         "BACKGROUND_TERTIARY": [
-            "#7f055f"
+            "#AF4586"
         ],
         "BACKGROUND_ACCENT": [
-            "#7f055f"
+            "#AF4586"
         ],
         "BACKGROUND_FLOATING": [
-            "#9F3079"
+            "#DF85AC"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#7f055f"
+            "#AF4586"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#9F3079"
+            "#DF85AC"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#9F3079"
+            "#DF85AC"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#9F3079"
+            "#DF85AC"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#7f055f"
+            "#AF4586"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#8a3a66"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#9F3079"
+            "#DF85AC"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#9F3079"
+            "#DF85AC"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#7f055f"
+            "#AF4586"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#7f055f"
+            "#AF4586"
         ],
         "KEYBOARD": [
-            "#7f055f"
+            "#AF4586"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#FFAFC5"
+            "#9F3079"
         ],
         "CHANNEL_ICON": [
             "#9e8593"
@@ -102,35 +102,35 @@
             "#9e8593"
         ],
         "CHAT_BACKGROUND": [
-            "#7f055f"
+            "#AF4586"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#7f055f",
-        "PRIMARY_100": "#FFAFC5",
-        "PRIMARY_200": "#DF85AC",
-        "PRIMARY_300": "#BF5A92",
-        "PRIMARY_360": "#DF85AC",
-        "PRIMARY_400": "#BF5A92",
-        "PRIMARY_500": "#9F3079",
-        "PRIMARY_600": "#7f055f",
-        "PRIMARY_630": "#7f055f",
-        "PRIMARY_660": "#7f055f",
-        "PRIMARY_700": "#7f055f",
-        "PRIMARY_800": "#7f055f",
-        "PRIMARY_900": "#7f055f",
+        "PRIMARY": "#AF4586",
+        "PRIMARY_100": "#9F3079",
+        "PRIMARY_200": "#8F1B6C",
+        "PRIMARY_300": "#7F055F",
+        "PRIMARY_360": "#8F1B6C",
+        "PRIMARY_400": "#7F055F",
+        "PRIMARY_500": "#DF85AC",
+        "PRIMARY_600": "#AF4586",
+        "PRIMARY_630": "#AF4586",
+        "PRIMARY_660": "#AF4586",
+        "PRIMARY_700": "#AF4586",
+        "PRIMARY_800": "#AF4586",
+        "PRIMARY_900": "#AF4586",
         "YELLOW_300": "#d92789",
-        "BRAND_260": "#BF5A92",
-        "BRAND_360": "#BF5A92",
-        "BRAND_500": "#BF5A92",
+        "BRAND_260": "#7F055F",
+        "BRAND_360": "#7F055F",
+        "BRAND_500": "#7F055F",
         "BRAND_560": "#f075b9",
-        "GREEN_360": "#BF5A92",
-        "RED_400": "#BF5A92",
-        "ORANGE_345": "#BF5A92",
-        "RED_560": "#BF5A92",
-        "GREEN_345": "#BF5A92",
-        "BLUE_345": "#BF5A92",
-        "WHITE_500": "#FFAFC5"
+        "GREEN_360": "#7F055F",
+        "RED_400": "#7F055F",
+        "ORANGE_345": "#7F055F",
+        "RED_560": "#7F055F",
+        "GREEN_345": "#7F055F",
+        "BLUE_345": "#7F055F",
+        "WHITE_500": "#9F3079"
        
     },
   "background": {
