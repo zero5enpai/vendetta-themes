@@ -36,7 +36,7 @@
             "#ff8fd2"
         ],
         "INTERACTIVE_MUTED": [
-            "#b35884"
+            "#c1648d"
         ],
         "BACKGROUND_PRIMARY": [
             "#6e3157"
@@ -139,4 +139,3 @@
     },
     "spec": 2
 }
-
