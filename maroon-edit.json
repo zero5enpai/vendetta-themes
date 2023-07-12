@@ -39,7 +39,7 @@
             "#7d6874"
         ],
         "BACKGROUND_PRIMARY": [
-            "#AF4586"
+            "#871066"
         ],
         "BACKGROUND_SECONDARY": [
             "#DF85AC"
@@ -48,16 +48,16 @@
             "#DF85AC"
         ],
         "BACKGROUND_TERTIARY": [
-            "#AF4586"
+            "#871066"
         ],
         "BACKGROUND_ACCENT": [
-            "#AF4586"
+            "#871066"
         ],
         "BACKGROUND_FLOATING": [
             "#DF85AC"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#AF4586"
+            "#871066"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#DF85AC"
@@ -69,7 +69,7 @@
             "#DF85AC"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#AF4586"
+            "#871066"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#8a3a66"
@@ -84,13 +84,13 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#AF4586"
+            "#871066"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#AF4586"
+            "#871066"
         ],
         "KEYBOARD": [
-            "#AF4586"
+            "#871066"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#9F3079"
@@ -102,23 +102,23 @@
             "#9e8593"
         ],
         "CHAT_BACKGROUND": [
-            "#AF4586"
+            "#871066"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#AF4586",
+        "PRIMARY": "#871066",
         "PRIMARY_100": "#9F3079",
         "PRIMARY_200": "#8F1B6C",
         "PRIMARY_300": "#7F055F",
         "PRIMARY_360": "#8F1B6C",
         "PRIMARY_400": "#7F055F",
         "PRIMARY_500": "#DF85AC",
-        "PRIMARY_600": "#AF4586",
-        "PRIMARY_630": "#AF4586",
-        "PRIMARY_660": "#AF4586",
-        "PRIMARY_700": "#AF4586",
-        "PRIMARY_800": "#AF4586",
-        "PRIMARY_900": "#AF4586",
+        "PRIMARY_600": "#871066",
+        "PRIMARY_630": "#871066",
+        "PRIMARY_660": "#871066",
+        "PRIMARY_700": "#871066",
+        "PRIMARY_800": "#871066",
+        "PRIMARY_900": "#871066",
         "YELLOW_300": "#d92789",
         "BRAND_260": "#7F055F",
         "BRAND_360": "#7F055F",
